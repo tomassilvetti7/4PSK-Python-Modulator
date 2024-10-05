@@ -26,6 +26,7 @@ Here you can see some screenshots of the APP running
 VcXsrv
 ![image](https://github.com/user-attachments/assets/ade4ccb0-3f61-4f4e-9862-654f22652817)
 ![image](https://github.com/user-attachments/assets/2daead46-69d7-4cc4-bbbf-98b31d02695b)
-![image](https://github.com/user-attachments/assets/5a8a397e-bc02-40c0-9dbb-29b534368f86)
+![image](https://github.com/user-attachments/assets/2ec6320f-a5f1-41ba-bfb7-4ad64e76f242)
+
 
 
