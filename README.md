@@ -6,8 +6,8 @@ To be able to use the GUI you will need the VcXsrv app, or X server
 This is a project to show a dockerization of an 4PSK python-based app
 I used a dockerfile to build a image an then run the python app in a container
 Screenshots
-![image](https://github.com/user-attachments/assets/f2f30ac4-9d89-4506-87dc-8027fd37b3cf)
 ![image](https://github.com/user-attachments/assets/17fc5acf-5741-4b36-8067-2baf3e31ad61)
+![image](https://github.com/user-attachments/assets/f2f30ac4-9d89-4506-87dc-8027fd37b3cf)
 ![image](https://github.com/user-attachments/assets/448373ca-fe35-4fa6-8de0-1400daa8deb7)
 
 --APP
